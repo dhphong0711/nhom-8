@@ -1,5 +1,4 @@
 # nhom-8
-tài liệu và báo cáo
 hướng dẫn sử dụng phần mềm demo tính thuế thu nhập cá nhân
 Bước 1: Thiết lập thông tin cơ bản
 Ngay khi khởi động, chương trình sẽ yêu cầu bạn cung cấp các thông tin để xác định mức miễn trừ gia cảnh:
